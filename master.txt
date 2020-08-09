@@ -1,1 +1,5 @@
-Hello, this is Branch master
+<<<<<<< HEAD
+Hello, this is Branch
+=======
+Hello This is Branch
+>>>>>>> featureA
